@@ -34,6 +34,5 @@
             <CheckBox Name="ChkTopMost" Content="Always on Top" VerticalAlignment="Center" IsCheckedChanged="OnTopMostCheckedChanged"/>
         </StackPanel>
         </StackPanel>
-        <Button Name="BtnCopyright" Content="© Made by https://github.com/Liqing1124, open-source at https://github.com/Liqing1124/User-Action-Recorder" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="OnCopyrightClick" FontSize="10"/>
     </Grid>
 </Window>
