@@ -4,3 +4,5 @@ obj/
 *.suo
 .vs/
 *.lock.json
+!bin/Release/net10.0-windows/win-x64/publish/CopyUserAction.exe
+AGENTS.md

@@ -29,4 +29,9 @@
     <PackageReference Include="SharpHook" Version="5.3.4" />
   </ItemGroup>
 
+  <!-- Force-upgrade the vulnerable transitive dependency Tmds.DBus.Protocol -->
+  <ItemGroup>
+    <PackageReference Include="Tmds.DBus.Protocol" Version="0.94.1" />
+  </ItemGroup>
+
 </Project>
